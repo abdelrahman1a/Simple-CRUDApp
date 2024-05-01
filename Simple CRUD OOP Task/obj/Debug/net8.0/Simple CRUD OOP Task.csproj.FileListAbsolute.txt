@@ -1,0 +1,14 @@
+C:\Users\I-SEVEN\Desktop\Simple CRUD OOP Task\Simple CRUD OOP Task\bin\Debug\net8.0\Simple CRUD OOP Task.exe
+C:\Users\I-SEVEN\Desktop\Simple CRUD OOP Task\Simple CRUD OOP Task\bin\Debug\net8.0\Simple CRUD OOP Task.deps.json
+C:\Users\I-SEVEN\Desktop\Simple CRUD OOP Task\Simple CRUD OOP Task\bin\Debug\net8.0\Simple CRUD OOP Task.runtimeconfig.json
+C:\Users\I-SEVEN\Desktop\Simple CRUD OOP Task\Simple CRUD OOP Task\bin\Debug\net8.0\Simple CRUD OOP Task.dll
+C:\Users\I-SEVEN\Desktop\Simple CRUD OOP Task\Simple CRUD OOP Task\bin\Debug\net8.0\Simple CRUD OOP Task.pdb
+C:\Users\I-SEVEN\Desktop\Simple CRUD OOP Task\Simple CRUD OOP Task\obj\Debug\net8.0\Simple CRUD OOP Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I-SEVEN\Desktop\Simple CRUD OOP Task\Simple CRUD OOP Task\obj\Debug\net8.0\Simple CRUD OOP Task.AssemblyInfoInputs.cache
+C:\Users\I-SEVEN\Desktop\Simple CRUD OOP Task\Simple CRUD OOP Task\obj\Debug\net8.0\Simple CRUD OOP Task.AssemblyInfo.cs
+C:\Users\I-SEVEN\Desktop\Simple CRUD OOP Task\Simple CRUD OOP Task\obj\Debug\net8.0\Simple CRUD OOP Task.csproj.CoreCompileInputs.cache
+C:\Users\I-SEVEN\Desktop\Simple CRUD OOP Task\Simple CRUD OOP Task\obj\Debug\net8.0\Simple CRUD OOP Task.dll
+C:\Users\I-SEVEN\Desktop\Simple CRUD OOP Task\Simple CRUD OOP Task\obj\Debug\net8.0\refint\Simple CRUD OOP Task.dll
+C:\Users\I-SEVEN\Desktop\Simple CRUD OOP Task\Simple CRUD OOP Task\obj\Debug\net8.0\Simple CRUD OOP Task.pdb
+C:\Users\I-SEVEN\Desktop\Simple CRUD OOP Task\Simple CRUD OOP Task\obj\Debug\net8.0\Simple CRUD OOP Task.genruntimeconfig.cache
+C:\Users\I-SEVEN\Desktop\Simple CRUD OOP Task\Simple CRUD OOP Task\obj\Debug\net8.0\ref\Simple CRUD OOP Task.dll

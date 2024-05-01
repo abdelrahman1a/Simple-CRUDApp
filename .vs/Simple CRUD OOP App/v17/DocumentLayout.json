@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I-SEVEN\\Desktop\\Simple CRUD OOP App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFF2E3-88CC-420D-AA61-6B957148DD2F}|Simple CRUD OOP Task\\Simple CRUD OOP  App.csproj|c:\\users\\i-seven\\desktop\\simple crud oop app\\simple crud oop task\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DFF2E3-88CC-420D-AA61-6B957148DD2F}|Simple CRUD OOP Task\\Simple CRUD OOP  App.csproj|solutionrelative:simple crud oop task\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFF2E3-88CC-420D-AA61-6B957148DD2F}|Simple CRUD OOP Task\\Simple CRUD OOP  App.csproj|c:\\users\\i-seven\\desktop\\simple crud oop app\\simple crud oop task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DFF2E3-88CC-420D-AA61-6B957148DD2F}|Simple CRUD OOP Task\\Simple CRUD OOP  App.csproj|solutionrelative:simple crud oop task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "C:\\Users\\I-SEVEN\\Desktop\\Simple CRUD OOP App\\Simple CRUD OOP Task\\clsUser.cs",
+              "RelativeDocumentMoniker": "Simple CRUD OOP Task\\clsUser.cs",
+              "ToolTip": "C:\\Users\\I-SEVEN\\Desktop\\Simple CRUD OOP App\\Simple CRUD OOP Task\\clsUser.cs",
+              "RelativeToolTip": "Simple CRUD OOP Task\\clsUser.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAuwGMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:16:08.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I-SEVEN\\Desktop\\Simple CRUD OOP App\\Simple CRUD OOP Task\\Program.cs",
+              "RelativeDocumentMoniker": "Simple CRUD OOP Task\\Program.cs",
+              "ToolTip": "C:\\Users\\I-SEVEN\\Desktop\\Simple CRUD OOP App\\Simple CRUD OOP Task\\Program.cs",
+              "RelativeToolTip": "Simple CRUD OOP Task\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:15:26.175Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
